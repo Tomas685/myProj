@@ -1,0 +1,27 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/png/fire.tpsheet
+- Assets/png/fronflip.tpsheet
+- Assets/png/playerIdle.tpsheet
+- Assets/png/playerJump.tpsheet
+- Assets/png/playerRun.tpsheet
+- Assets/png/shooting.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/png/fire.png
+- Assets/png/fronflip.png
+- Assets/png/playerIdle.png
+- Assets/png/playerJump.png
+- Assets/png/playerRun.png
+- Assets/png/shooting.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
